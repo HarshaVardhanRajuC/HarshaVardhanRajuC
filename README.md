@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsha-vardhan-a08a081b6/)](https://www.linkedin.com/in/harsha-vardhan-a08a081b6/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://harshavardhanrajuc.github.io/Harshaprofile/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21243107/harsha-vardhan-c)
+[![Linkedin Badge](https://img.shields.io/badge/-Harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsha-vardhan-a08a081b6/)](https://www.linkedin.com/in/harsha-vardhan-a08a081b6/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Harsha-green)](https://harshavardhanrajuc.github.io/Harshaprofile/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Harsha-yellow)](https://stackoverflow.com/users/21243107/harsha-vardhan-c)
 
 I'm
 Full Stack Developer intern at Edureka
