@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Harsha-yellow)](https://stackoverflow.com/users/21243107/harsha-vardhan-c)
 
 I'm a
-Full Stack Developer intern at Edureka
+Full Stack Developer intern at Edureka.
 The process of creating something that countless people use daily has always been fascinating to me. So I have joined in Edureka to learn about the front-end developing, back-end developing and data structure of websites. Currently I am proficient with html and has started with CSS and will continue to learn how to develop websites from the best people available with edureka.
 
 ![Visitor Count](https://profile-counter.glitch.me/HarshaVardhanRajuC/count.svg)
